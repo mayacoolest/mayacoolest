@@ -1,4 +1,7 @@
-## Hi there 👋
+## Привіт! 👋
+## Я студентка спеціальності Інженерії програм забезпечення. Навчаюсь на 1 курсі.
+## Цікавлюся кодуванням, малюванням.
+## Мови програмування: с++
 
 <!--
 **mayacoolest/mayacoolest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
